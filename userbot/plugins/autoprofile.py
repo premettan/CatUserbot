@@ -19,10 +19,10 @@ from pySmartDL import SmartDL
 import shutil
 
 
-DEFAULTUSERBIO = str(DEFAULT_BIO) if DEFAULT_BIO else " ᗯᗩᏆᎢᏆᑎᏀ ᏞᏆᏦᗴ ᎢᏆᗰᗴ  "
+DEFAULTUSERBIO = str(DEFAULT_BIO) if DEFAULT_BIO else " EVERYBODY GOES TO THE SAME PLACE WHEN YOU DIE SO WE'LL MEET AGIN  "
 
 DEL_TIME_OUT = 30
-DEFAULTUSER = str(AUTONAME) if AUTONAME else "✰Sᴀͥʀᴀͣᴛͫʜ™✰" 
+DEFAULTUSER = str(AUTONAME) if AUTONAME else " ༺✦҈͜͡➳ֆɦɨռɨɢǟʍɨ❦࿐༻ " 
 
 
 
@@ -182,7 +182,7 @@ async def _(event):
         Bio = BIO_STRINGS[bro]
         DMY = time.strftime("%d.%m.%Y")
         HM = time.strftime("%H:%M:%S")
-        #bio = f"📅 {DMY} | ᗯᗩᏆᎢᏆᑎᏀ ᏞᏆᏦᗴ ᎢᏆᗰᗴ | ⌚️ {HM}"
+        #bio = f"📅 {DMY} | EVERYBODY GOES TO THE SAME PLACE WHEN YOU DIE SO WE'LL MEET AGAIN | ⌚️ {HM}"
         logger.info(Bio)
         try:
             await borg(functions.account.UpdateProfileRequest(  # pylint:disable=E0602
