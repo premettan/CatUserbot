@@ -22,8 +22,7 @@ import shutil
 DEFAULTUSERBIO = str(DEFAULT_BIO) if DEFAULT_BIO else " EVERYBODY GOSES TO THE SAME PLACE WHEN DIE  "
 
 DEL_TIME_OUT = 30
-DEFAULTUSER = str(AUTONAME) if AUTONAME else "✰Sᴀͥʀᴀͣᴛͫʜ™✰" 
-
+DEFAULTUSER = str(AUTONAME) if AUTONAME else "༺✦҈͜͡➳ֆɦɨռɨɢǟʍɨ❦࿐༻"
 
 
 
