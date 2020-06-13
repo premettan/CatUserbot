@@ -124,7 +124,7 @@ async def _(event):
             "------------------>",    
             "------>;(^。^)ノ",
             "(￣ー￣) DEAD",
-            "`Targeted user killed by Headshot 😈.😈.😈.😈.😈.😈.😈......`\n '#Sad_Reacts_Online'\n",
+            "`Targeted user killed by Headshot by shinigami 😈.😈.😈.😈.😈.😈.😈......`\n '#Sad_Reacts_Online'\n",
         ]
 
     for i in animation_ttl:
