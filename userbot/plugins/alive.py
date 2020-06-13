@@ -18,7 +18,7 @@ async def amireallyalive(alive):
                      "`☞and created by :` snapdragon,anubis\n"
                      "`☞Database Status: Databases functioning normally!\n\n`"
                      "`☞Always with you, my master!\n`"
-                     f"`☞Owner Name`: [{DEFAULTUSER}](t.me/@DEATH_LORD_MICTLANTECUHTLI)\n"
+                     f"`☞Owner Name`: [{DEFAULTUSER}](t.me/DEATH_LORD_MICTLANTECUHTLI)\n"
                      "☞[Deploy this userbot Now](https://github.com/Sur-vivor/CatUserbot)"
                     )
 
